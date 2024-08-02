@@ -1,1 +1,1 @@
-console.log('Hello, World!, How are you, next version.....####vvvvvv');
+console.log('Hello, World!, This is Fridays, version');
